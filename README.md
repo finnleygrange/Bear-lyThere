@@ -18,4 +18,4 @@ Download the latest release [here](https://github.com/finnleygrange/Bear-lyThere
 
 ## Contributing
 
-If you would like to contribute to "Shoot Shoot," please fork the repository and submit pull requests.
+If you would like to contribute to "Bear-ly There," please fork the repository and submit pull requests.
